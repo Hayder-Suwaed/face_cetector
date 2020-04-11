@@ -8,13 +8,12 @@ import './App.css';
 
 const particalesOptions = {
   Particles: {
-    line_linked: {
-      shadow: {
-        enable: true,
-        color: "#3CA9D1",
-        blur: 5
-      }
+  number: {
+    value: {
+      enable: true,
+      vlaue_area: 800
     }
+  }
   }
 }
 class App extends Component {
